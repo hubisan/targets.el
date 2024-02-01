@@ -5,7 +5,7 @@
 ;; Created: November 29, 2016
 ;; Keywords: evil text-object convenience
 ;; Package-Requires: ((emacs "24.4")  (cl-lib "0.5") (evil "1.1.0") (avy "0.4.0"))
-;; Version: 0.1
+;; Version: 0.1.1
 
 ;; This file is not part of GNU Emacs.
 
